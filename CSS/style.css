@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(234, 220, 246);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1 {
+    font-style: oblique;
+    text-shadow: blue 2px 1px 2px;
+    text-decoration: overline underline;
+    text-decoration-color: beige;
+    text-align: center;
+}
